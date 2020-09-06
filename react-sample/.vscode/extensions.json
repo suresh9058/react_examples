@@ -1,8 +1,0 @@
-{
-  "recommendations": [
-    "apollographql.vscode-apollo",
-    "ms-azuretools.vscode-docker",
-    "esbenp.prettier-vscode",
-    "googlecloudtools.cloudcode"
-  ]
-}
